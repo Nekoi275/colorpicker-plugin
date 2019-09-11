@@ -1,0 +1,29 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Tahoma";
+}
+body {
+  background-color: #c9f2f5;
+}
+.wrapper {
+  margin: auto;
+  text-align: center;
+}
+.color-block {
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  border: 2px dotted #f7ccd7;
+}
+.title {
+  font-size: 24px;
+  font-weight: 700;
+  color: #3f3a5c;
+}
+#color-picker {
+  box-sizing: border-box;
+  margin: 50px;
+  cursor: pointer;
+}
